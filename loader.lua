@@ -1,4 +1,4 @@
-
+print("started loading process")
 local http = game.HttpGet
 local gs = game.GetService
 local games, gameid = http(game, "https://raw.githubusercontent.com/practicalmanner/crashhub/main/games.json", true), game.GameId
