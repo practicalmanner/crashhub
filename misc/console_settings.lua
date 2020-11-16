@@ -1,7 +1,7 @@
 return {
     title = "crashhub - script hub",
     load_color = "@@RED@@",
-    seperator = "----------------------------------------------------------------------------------------",
+    seperator = string.rep("-", 88),
     load_title = [[
                                                 /$$       /$$                 /$$      
                                        | $$      | $$                | $$      
